@@ -317,7 +317,7 @@ if __name__ == "__main__":
     print("="*60)
     
     # 引导用户输入完整的 URL 或纯 ID
-    input_value = input("请输入网易云音乐歌单的完整 URL : )
+    input_value = input("请输入网易云音乐歌单的完整 URL : ")
     
     playlist_id = None
     
